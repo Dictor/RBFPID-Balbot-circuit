@@ -1,0 +1,8 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10u,C_0603_1608Metric,78.74,-49.53,90,top
+R1,12k,R_0603_1608Metric,63.5,-73.66,90,top
+R2,2.4k,R_0603_1608Metric,63.5,-79.565,90,top
+R3,10k,R_0603_1608Metric,71.12,-54.61,180,top
+R4,100,R_0603_1608Metric,66.04,-106.045,90,top
+R5,100,R_0603_1608Metric,60.96,-106.045,90,top
+U2,DRV8847PWPR,HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias,71.12,-49.53,0,top
