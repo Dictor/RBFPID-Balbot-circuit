@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "NUCLEO-L432KC")(type "KiCad")(uri "C:/Jeonghyun/kicad/NUCLEO-L432KC")(options "")(descr ""))
+  (lib (name "DRV8874PWPR")(type "KiCad")(uri "C:/Jeonghyun/kicad/DRV8874PWPR")(options "")(descr ""))
+)
